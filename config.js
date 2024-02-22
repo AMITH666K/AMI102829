@@ -54,13 +54,13 @@ global.premium = 'true'
 global.packname = '𝙽𝙾𝙾𝙱𝚇7' 
 global.author = '@NOOBX7' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ 𝙽𝙾𝙾𝙱𝚇7\nhttps://telegram/AGENTNOOBX7\n' 
-global.dygp = 'https://telegram/AGENTNOOBX7'
-global.fgsc = 'https://telegram/AGENTNOOBX7' 
-global.fgyt = 'https://telegram/AGENTNOOBX7'
-global.fgpyp = 'https://telegram/AGENTNOOBX7'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.igfg = '▢✓ 𝙽𝙾𝙾𝙱𝚇7\nhttps://telegram.dog/AGENTNOOBX7\n' 
+global.dygp = 'https://telegram.dog/AGENTNOOBX7'
+global.fgsc = 'https://telegram.dog/AGENTNOOBX7' 
+global.fgyt = 'https://telegram.dog/AGENTNOOBX7'
+global.fgpyp = 'https://telegram.dog/AGENTNOOBX7'
+global.fglog = 'noobx7.jpg' 
+global.thumb = fs.readFileSync('./noobx7.jpg')
 
 
 global.wait = '*🕣 𝙽𝙾𝙾𝙱𝚇7 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
